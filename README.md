@@ -21,7 +21,9 @@ https://public.tableau.com/app/profile/wei.zhang2701/viz/CitiBikeChallenge-Story
 ## Project Analysis
 ### Map with start data - filter with month and member type
 <img src="/image/tableau_story.png" />
+
 ### Average Travel Time
 <img src="/image/travel_time.png" />
+
 ### Peak Month Analysis with Rideable Type
 <img src="/image/rideable_type.png" />
