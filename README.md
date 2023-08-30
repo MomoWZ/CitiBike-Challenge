@@ -39,7 +39,7 @@ On the other hand, if we use the number of rider counts for each bike type; the 
 This graph shows the consistency of our data, that classic bike is the favorable one. Furthermore, this graph also presents the peak season. Compared with different seasons, people tend to use bikes more often during summer and fall. The data is slowly decreasing., The rider counts climb as people are entering spring. <br>
 
 ### Peak Day Time
-<img src="/image/peak_time.png" height="400" width="600" />
+<img src="/image/peak _time.png" height="400" width="600" />
 
 ### Top 10 Stations
 <img src="/image/top_10.png" height="400" width="600" />
