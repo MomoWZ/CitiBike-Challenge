@@ -35,7 +35,7 @@ On the other hand, if we use the number of rider counts for each bike type; the 
 
 ### Peak Season Analysis with Rideable Type
 <img src="/image/rideable_type.png" height="400" width="600" />
-<img src="/image/peak_season" height="400" width="600" />
+<img src="/image/peak_season.png" height="400" width="600" />
 
 This graph shows the consistency of our data, that classic bike is the favorable one. Furthermore, this graph also presents the peak season. Compared with different seasons, people tend to use bikes more often during summer and fall. The data is slowly decreasing., The rider counts climb as people are entering spring. <br>
 
