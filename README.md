@@ -14,7 +14,7 @@ Checking data info then save it as csv file.<br>
 
 ## Limitation
 <img src="/image/cleaned_csv.png" height="250" width="600" />
-Because of the sizes of csv file and tableau workbook are too large, I am not able to upload them into the repository from local.
+Because of the file size of the csv and tableau workbook are too large, I am not able to upload them into the repository from local.
 
 ## Tableau Story
 [Story](https://public.tableau.com/app/profile/wei.zhang2701/viz/CitiBikeChallenge-Storytelling/CitiBikeStory?publish=yes)
@@ -28,7 +28,7 @@ First of all, I present a basic density map using start stations data, filter wi
 ### Average Travel Time
 <img src="/image/travel_time.png" height="400" width="600" />
 
-Citi Bike offers two kind of users: members and causal users. The above graph could show that the number of members are larger than causal users. Moreover, there are different types of bikes under each type. <br>
+Citi Bike offers two kind of users: members and causal users. The above graph could show that the number of members are larger than causal users. Moreover, there are different type of bikes under each user type. <br>
 From the above graph, people would see members are only have classic bikes and electric bikes. But causal users have an additional type of bike, which is docked bike. Classic bikes are the most popular choice for both members and causal users. <br>
 With average travel time between classic bikes and electric bikes are very close. I tend to use the average travel time to define which type of bike might need more inspections or repairments. It is surprising to see that the docked bike is the winner, since it has the longest average travel time.<br>
 On the other hand, if we use the number of rider counts for each bike type; the data show different results. Classic bike might be the one need frequent insepctions, because it is the most used one. <br>
