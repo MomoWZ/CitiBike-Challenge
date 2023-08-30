@@ -23,12 +23,12 @@ Because of the sizes of csv file and tableau workbook are too large, I am not ab
 ### Map with start data - filter with month and member type
 <img src="/image/tableau_story.png" height="400" width="600" />
 
-First of all, I present a basic density map using start stations data, filter with month and member type. From the first glance, people would see the place with heavy density is around the Harborside at the port. It shows a trend that a lot of people use Citi bike as a connection for their daily commute. <br>
+First of all, I present a basic density map using start stations data, filter with month and member type. From the first glance, people would see the place with heavy density is around the Harborside at the port. It shows a trend that a lot of people use bike as a connection for their daily commute. <br>
 
 ### Average Travel Time
 <img src="/image/travel_time.png" height="400" width="600" />
 
-Citi bike offers two kind of users: members and causal users. The above graph could show that the number of members are larger than causal users. Moreover, there are different types of bikes under each type. <br>
+Citi Bike offers two kind of users: members and causal users. The above graph could show that the number of members are larger than causal users. Moreover, there are different types of bikes under each type. <br>
 From the above graph, people would see members are only have classic bikes and electric bikes. But causal users have an additional type of bike, which is docked bike. Classic bikes are the most popular choice for both members and causal users. <br>
 With average travel time between classic bikes and electric bikes are very close. I tend to use the average travel time to define which type of bike might need more inspections or repairments. It is surprising to see that the docked bike is the winner, since it has the longest average travel time.<br>
 On the other hand, if we use the number of rider counts for each bike type; the data show different results. Classic bike might be the one need frequent insepctions, because it is the most used one. <br>
