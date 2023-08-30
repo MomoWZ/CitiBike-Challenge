@@ -39,8 +39,7 @@ On the other hand, if we use the number of rider counts for each bike type; the 
 This graph shows the consistency of our data, that classic bike is the favorable one. Linking with pervious graph, even though less people choose docked bike, but it is the one with longest average travel time. <br>
 
 ### Peak Analysis - dashboard
-<img src="/image/peak _time.png" height="400" width="600" />
-<img src="/image/peak_season.png" height="400" width="600" />
+<img src="/image/peak_data.png" height="400" width="600" />
 
 I use the start time to analyze the peak time for a day. The data shown in the graph is different from what I originally imagined. Because people would choose the bike as the connection for their daily commute, I was thinking that 7am to 8am would be the peak time of the day. But the graph shows a different story. The actual peak time is from 5pm to 6pm, when people are off work.<br>
 Furthermore, this graph also presents the peak season. Compared with different seasons, people tend to use bikes more often during summer and fall. The data is slowly decreasing, when winter is coming. In contrast, the rider number climbs when the weaather becomes warmer. <br>
