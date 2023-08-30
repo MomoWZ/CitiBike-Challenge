@@ -23,6 +23,8 @@ https://public.tableau.com/app/profile/wei.zhang2701/viz/CitiBikeChallenge-Story
 ### Map with start data - filter with month and member type
 <img src="/image/tableau_story.png" height="400" width="400" />
 
+First of all, I present a basic density map using start stations data, filter with month and member type. From the first glance, people would see the place with heavy density is around the Harborside at the port. It shows a trend that a lot of people use Citi bike as a connection for tire daily commute. <br>
+
 ### Average Travel Time
 <img src="/image/travel_time.png" />
 
