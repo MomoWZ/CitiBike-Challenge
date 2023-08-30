@@ -13,7 +13,7 @@ Checking data info then save it as csv file.<br>
 <img src="/image/data_cleaning_2.png" height="400" width="400"/>
 
 ## Limitation
-<img src="/image/cleaned_csv.png" />
+<img src="/image/cleaned_csv.png" height="400" width="400" />
 Because of the sizes of csv file and tableau workbook are too large, I am not able to upload them into the repository from local.
 
 ## Tableau Story
@@ -21,7 +21,7 @@ https://public.tableau.com/app/profile/wei.zhang2701/viz/CitiBikeChallenge-Story
 
 ## Project Analysis
 ### Map with start data - filter with month and member type
-<img src="/image/tableau_story.png" height="400" width="500" />
+<img src="/image/tableau_story.png" height="400" width="400" />
 
 ### Average Travel Time
 <img src="/image/travel_time.png" />
