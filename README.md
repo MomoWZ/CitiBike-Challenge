@@ -17,7 +17,7 @@ Checking data info then save it as csv file.<br>
 Because of the sizes of csv file and tableau workbook are too large, I am not able to upload them into the repository from local.
 
 ## Tableau Story
-[https://public.tableau.com/app/profile/wei.zhang2701/viz/CitiBikeChallenge-Storytelling/CitiBikeStory?publish=yes](https://public.tableau.com/app/profile/wei.zhang2701/viz/CitiBikeChallenge-Storytelling/CitiBikeStory?publish=yes)
+[Story](https://public.tableau.com/app/profile/wei.zhang2701/viz/CitiBikeChallenge-Storytelling/CitiBikeStory?publish=yes)
 
 ## Project Analysis
 ### Map with start data - filter with month and member type
