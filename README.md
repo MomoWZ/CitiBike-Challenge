@@ -20,7 +20,7 @@ https://public.tableau.com/app/profile/wei.zhang2701/viz/CitiBikeChallenge-Story
 
 ## Project Analysis
 ### Map with start data - filter with month and member type
-<img src="/image/tableau_story.png" />
+<img src="/image/tableau_story.png" height="400" width="500" />
 
 ### Average Travel Time
 <img src="/image/travel_time.png" />
