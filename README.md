@@ -13,7 +13,7 @@ Checking data info then save it as csv file.<br>
 <img src="/image/data_cleaning_2.png" height="400" width="400"/>
 
 ## Limitation
-<img src="/image/cleaned_csv.png" height="400" width="600" />
+<img src="/image/cleaned_csv.png" height="500" width="600" />
 Because of the sizes of csv file and tableau workbook are too large, I am not able to upload them into the repository from local.
 
 ## Tableau Story
